@@ -49,7 +49,7 @@ public class BaseActivity extends Activity {
 
     @Override
     protected void onStop() {
-        super.onStop();
+        super.onStop();；
         EasyTracker.getInstance(this).activityStop(this);
     }
 
