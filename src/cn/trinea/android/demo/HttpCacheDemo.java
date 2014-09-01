@@ -22,7 +22,7 @@ import cn.trinea.android.common.util.StringUtils;
  */
 public class HttpCacheDemo extends BaseActivity {
 
-    public static final String TAG_CACHE = "http_cache";
+    public static final String TAG_CACHE = "http_cachess";
 
     private EditText           httpUrlET;
     private Button             httpGetBT;
